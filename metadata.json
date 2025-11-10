@@ -1,6 +1,4 @@
 {
-  "name": "Nebula Space Runner",
-  "description": "Survive at the edge of space. Fire sonic pulses that destroy but drain your vital energy. Chain echoes to amplify your power and carve your way through the nebula.",
-  "author": "brunoveinz",
-  "version": "1.0.0"
+  "game_name": "Nebula Runner",
+  "description": "Survive at the edge of space. Fire sonic pulses that destroy but drain your vital energy. Chain echoes to amplify your power and carve your way through the nebula."
 }
